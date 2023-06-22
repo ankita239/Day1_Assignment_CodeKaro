@@ -1,0 +1,30 @@
+.page{
+    text-align: center;
+}
+.input1,.input2{
+    text-align: left;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    padding-left: 100px;
+    margin-bottom: 10px;
+}
+.btn{
+    border: none;
+    padding: 5px;
+    font-size:medium;
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+}
+.mem, .policy{
+    color: rgb(134, 134, 134);
+}
+.signup{
+    color: black;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(17, 248, 148, 0.813);
+}
+.head{
+    font-size: 100px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 300px;
+    margin-top: 200px;
+}
+.para{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    margin-left: 300px;
+    font-size: 30px;
+}
+.btn{
+    border: none;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: black;
+    margin-left: 300px;
+    padding: 30px 50px;
+    border-radius: 100px;
+    background-color: white;
+    width: 500px;
+}
